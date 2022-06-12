@@ -1,0 +1,14 @@
+.e1 {
+    background-color: rgb(150, 212, 150);
+    font-size: 50px;
+}
+
+.courier {
+    color: rgb(85, 78, 78);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.center {
+    text-align: center;
+    list-style-position: inside;
+}
